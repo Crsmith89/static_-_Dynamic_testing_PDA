@@ -14,9 +14,6 @@ Only comment on errors that would stop the tests running.
 
 ```python
 
-class CardGame:
-
-
   def check_for_ace(self, card):
      if card.value = 1:  # single = is assigning, change == so is comparing. 
       return True
